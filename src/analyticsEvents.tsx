@@ -1,0 +1,5 @@
+export const AppDownloadClick = "AppDownloadClick"
+export const RegisterByWeb = "RegisterByWeb"
+export const SignupByWeb = "SignupByWeb"
+export const LogoutWeb = "LogoutWeb"
+export const Signup_Started = "Signup_Started"
